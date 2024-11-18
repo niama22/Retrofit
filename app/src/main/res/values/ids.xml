@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main" type="id" />
+    <item name="btnJson" type="id" />
+    <item name="btnXml" type="id" />
+    <item name="recyclerView" type="id" />
+    <item name="tvId" type="id" />
+    <item name="tvSolde" type="id" />
+    <item name="text1" type="id" />
+    <item name="tvDate" type="id" />
+    <item name="tvType" type="id" />
+    <item name="btnUpdate" type="id" />
+    <item name="btnDelete" type="id" />
+</resources>
